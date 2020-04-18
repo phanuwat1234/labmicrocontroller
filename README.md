@@ -6,17 +6,19 @@
 
 - สรุปการทดลองที่ 1 : Simple Light Sensor
 
-[สรุปการทดลองที่ 1 : Simple Light Sensor] (https://drive.google.com/file/d/1hBPSCN82S31405T8sGhGJae2Who7Uj1b/view?usp=sharing)
-
 - สรุปการทดลองที่ 2 : แจ้งข้อมูลแสงผ่าน Application Line
-
-[แจ้งข้อมูลแสงผ่าน Application Line] (https://drive.google.com/file/d/1bsKM_NtW4eSuy30_YP00VbgtFCvaLwPF/view?usp=sharing)
 
 - สรุปการทดลองที่ 3 : การเชื่อมต่อกันระหว่าง Microcontroller
 
-[สรุปการทดลองที่ 3 : การเชื่อมต่อกันระหว่าง Microcontroller] (https://drive.google.com/file/d/1pojBjgHXfw76BwJnTcNmwuFO16VQgcSt/view?usp=sharing)
-
 - สรุปการทดลองที่ 4 : การนำ Microcontroller มาประยุกต์ใช้งาน
+
+-------------------------------
+
+[สรุปการทดลองที่ 1 : Simple Light Sensor] (https://drive.google.com/file/d/1hBPSCN82S31405T8sGhGJae2Who7Uj1b/view?usp=sharing)
+
+[แจ้งข้อมูลแสงผ่าน Application Line] (https://drive.google.com/file/d/1bsKM_NtW4eSuy30_YP00VbgtFCvaLwPF/view?usp=sharing)
+
+[สรุปการทดลองที่ 3 : การเชื่อมต่อกันระหว่าง Microcontroller] (https://drive.google.com/file/d/1pojBjgHXfw76BwJnTcNmwuFO16VQgcSt/view?usp=sharing)
 
 [สรุปการทดลองที่ 4 : การนำ Microcontroller มาประยุกต์ใช้งาน] (https://drive.google.com/file/d/19aolVGKBeUnA0LmdR3OKxMU4pgXEBgzY/view?usp=sharing)
 
