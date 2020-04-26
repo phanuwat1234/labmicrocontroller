@@ -26,6 +26,10 @@
 
 -------------------------------
 
+[How to create repositories , create github page and change theme github page](https://youtu.be/TN7ClFs2VhA)
+
+-------------------------------
+
 ตัวอย่างรูปภาพ Microcontroller ESP-32CAM
 
 ![ตัวอย่างรูปภาพ Microcontroller ESP-32CAM](https://www.tinytronics.nl/shop/image/cache/data/product-2132/ESP32CAM_1-1000x1000.jpg)
